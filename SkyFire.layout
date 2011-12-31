@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CAnimation.cc" open="0" top="0" tabpos="11">
+		<Cursor position="273" topLine="0" />
+	</File>
+	<File name="CAnimation.h" open="0" top="0" tabpos="10">
+		<Cursor position="64" topLine="0" />
+	</File>
+	<File name="CArea.cc" open="1" top="0" tabpos="20">
+		<Cursor position="253" topLine="0" />
+	</File>
+	<File name="CArea.h" open="0" top="0" tabpos="6">
+		<Cursor position="485" topLine="0" />
+	</File>
+	<File name="CCamera.cc" open="1" top="0" tabpos="3">
+		<Cursor position="401" topLine="0" />
+	</File>
+	<File name="CCamera.h" open="1" top="0" tabpos="2">
+		<Cursor position="563" topLine="0" />
+	</File>
+	<File name="CEntity.cc" open="1" top="0" tabpos="8">
+		<Cursor position="195" topLine="213" />
+	</File>
+	<File name="CEntity.h" open="1" top="1" tabpos="7">
+		<Cursor position="1794" topLine="63" />
+	</File>
+	<File name="CEntityCol.cc" open="1" top="0" tabpos="10">
+		<Cursor position="20" topLine="0" />
+	</File>
+	<File name="CEvent.cc" open="1" top="0" tabpos="19">
+		<Cursor position="67" topLine="0" />
+	</File>
+	<File name="CEvent.h" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="CFPS.cc" open="1" top="0" tabpos="18">
+		<Cursor position="83" topLine="0" />
+	</File>
+	<File name="CFPS.h" open="0" top="0" tabpos="0">
+		<Cursor position="58" topLine="0" />
+	</File>
+	<File name="CMap.cc" open="1" top="0" tabpos="17">
+		<Cursor position="803" topLine="0" />
+	</File>
+	<File name="CMap.h" open="0" top="0" tabpos="5">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="CPlayer.cc" open="1" top="0" tabpos="11">
+		<Cursor position="643" topLine="0" />
+	</File>
+	<File name="CPlayer.h" open="1" top="0" tabpos="12">
+		<Cursor position="117" topLine="0" />
+	</File>
+	<File name="CSurface.cc" open="1" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="CSurface.h" open="1" top="0" tabpos="14">
+		<Cursor position="440" topLine="0" />
+	</File>
+	<File name="CTile.cc" open="1" top="0" tabpos="16">
+		<Cursor position="88" topLine="0" />
+	</File>
+	<File name="CTile.h" open="0" top="0" tabpos="4">
+		<Cursor position="275" topLine="0" />
+	</File>
+	<File name="Define.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="SkyFire.cc" open="1" top="0" tabpos="15">
+		<Cursor position="91" topLine="0" />
+	</File>
+	<File name="SkyFire.h" open="0" top="0" tabpos="11">
+		<Cursor position="108" topLine="0" />
+	</File>
+	<File name="SkyFire_OnCleanup.cc" open="1" top="0" tabpos="5">
+		<Cursor position="313" topLine="0" />
+	</File>
+	<File name="SkyFire_OnEvent.cc" open="1" top="0" tabpos="4">
+		<Cursor position="163" topLine="0" />
+	</File>
+	<File name="SkyFire_OnInit.cc" open="1" top="0" tabpos="1">
+		<Cursor position="621" topLine="0" />
+	</File>
+	<File name="SkyFire_OnLoop.cc" open="1" top="0" tabpos="9">
+		<Cursor position="639" topLine="0" />
+	</File>
+	<File name="SkyFire_OnRender.cc" open="1" top="0" tabpos="6">
+		<Cursor position="410" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

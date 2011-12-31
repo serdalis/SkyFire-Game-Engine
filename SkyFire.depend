@@ -1,0 +1,299 @@
+# depslib dependency file v1.0
+1312555834 source:c:\users\ricky\desktop\skyfire\skyfire_onevent.cc
+	"SkyFire.h"
+
+1312545240 c:\users\ricky\desktop\skyfire\skyfire.h
+	"SDL.h"
+	<vector>
+	"Define.h"
+	"CArea.h"
+	"CCamera.h"
+	"CEvent.h"
+	"CSurface.h"
+	"CEntity.h"
+	"CPlayer.h"
+
+1312538417 c:\users\ricky\desktop\skyfire\csurface.h
+	"SDL.h"
+	"SDL_image.h"
+
+1312555623 source:c:\users\ricky\desktop\skyfire\skyfire_onloop.cc
+	"SkyFire.h"
+
+1312544052 source:c:\users\ricky\desktop\skyfire\skyfire.cc
+	"SkyFire.h"
+
+1312545498 source:c:\users\ricky\desktop\skyfire\skyfire_oncleanup.cc
+	"SkyFire.h"
+
+1312555318 source:c:\users\ricky\desktop\skyfire\skyfire_oninit.cc
+	"SkyFire.h"
+
+1312556046 source:c:\users\ricky\desktop\skyfire\skyfire_onrender.cc
+	"SkyFire.h"
+
+1312411687 source:c:\users\ricky\desktop\skyfire\canimation.cc
+	"CAnimation.h"
+
+1312537337 c:\users\ricky\desktop\skyfire\canimation.h
+	"SDL.h"
+
+1312538517 source:c:\users\ricky\desktop\skyfire\csurface.cc
+	"CSurface.h"
+
+1312498154 source:c:\users\ricky\desktop\skyfire\sprite.cc
+	"sprite.h"
+
+1312496808 c:\users\ricky\desktop\skyfire\sprite.h
+	<vector>
+	"CAnimation.h"
+	"CSurface.h"
+
+1312537346 c:\users\ricky\desktop\skyfire\cevent.h
+	"SDL.h"
+
+1312533441 source:c:\users\ricky\desktop\skyfire\cevent.cc
+	"CEvent.h"
+
+1255796850 c:\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 c:\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 c:\sdl\include\sdl_platform.h
+
+1255796850 c:\sdl\include\begin_code.h
+
+1255796850 c:\sdl\include\close_code.h
+
+1255796850 c:\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_keysym.h
+
+1255796850 c:\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255796850 c:\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1257990160 c:\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1312543357 c:\users\ricky\desktop\skyfire\define.h
+
+1312544966 c:\users\ricky\desktop\skyfire\carea.h
+	"CMap.h"
+
+1312545004 c:\users\ricky\desktop\skyfire\cmap.h
+	<SDL.h>
+	<vector>
+	"CTile.h"
+	"CSurface.h"
+
+1312543473 c:\users\ricky\desktop\skyfire\ctile.h
+	"Define.h"
+
+1312545545 c:\users\ricky\desktop\skyfire\ccamera.h
+	<SDL.h>
+	"Define.h"
+
+1312555514 c:\users\ricky\desktop\skyfire\centity.h
+	<vector>
+	"CArea.h"
+	"CAnimation.h"
+	"CCamera.h"
+	"CFPS.h"
+	"CSurface.h"
+
+1312540076 c:\users\ricky\desktop\skyfire\cfps.h
+	"SDL.h"
+
+1312544986 source:c:\users\ricky\desktop\skyfire\carea.cc
+	"CArea.h"
+
+1312544152 source:c:\users\ricky\desktop\skyfire\ccamera.cc
+	"CCamera.h"
+
+1312555540 source:c:\users\ricky\desktop\skyfire\centity.cc
+	"CEntity.h"
+
+1312545371 source:c:\users\ricky\desktop\skyfire\cfps.cc
+	"CFPS.h"
+
+1312545016 source:c:\users\ricky\desktop\skyfire\cmap.cc
+	"CMap.h"
+
+1312543485 source:c:\users\ricky\desktop\skyfire\ctile.cc
+	"CTile.h"
+
+1312555567 c:\users\ricky\desktop\skyfire\cplayer.h
+	"CEntity.h"
+
+1312555558 source:c:\users\ricky\desktop\skyfire\cplayer.cc
+	"CPlayer.h"
+
+1312555827 source:c:\users\ricky\desktop\skyfire\centitycol.cc
+	"CEntity.h"
+
